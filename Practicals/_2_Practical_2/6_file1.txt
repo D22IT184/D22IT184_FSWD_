@@ -1,0 +1,7 @@
+Hello, this is file 1.
+These are the contents:
+Line 3
+This line is unique to file 1.
+Line 5
+I am text file 
+owner is Nazil

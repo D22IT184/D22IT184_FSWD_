@@ -1,0 +1,5 @@
+Hello, this is file 2.
+These are the contents:
+Line 3
+This line is unique to file 2.
+Line 5
